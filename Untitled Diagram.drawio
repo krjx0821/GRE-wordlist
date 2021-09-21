@@ -1,14 +1,298 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T12:40:58.485Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="aZovpRu0QEOfBg39dwhK" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T13:50:56.846Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="8qEFJTiA3tVnmOqU1DGt" version="15.2.9" type="github">
   <diagram id="rdcxbeQPXJBi-1US10Wj" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RzvoCI_BBaKcWjOHwhh5-1" value="疾病" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="90" height="20" as="geometry" />
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-72" target="RzvoCI_BBaKcWjOHwhh5-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RzvoCI_BBaKcWjOHwhh5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="90" height="20" as="geometry" />
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-72" target="RzvoCI_BBaKcWjOHwhh5-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-72" target="RzvoCI_BBaKcWjOHwhh5-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-72" value="疾病" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-73" target="RzvoCI_BBaKcWjOHwhh5-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-73" target="RzvoCI_BBaKcWjOHwhh5-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-73" value="肿瘤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-80" value="肿瘤" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="500" y="50" width="60" height="26" as="geometry">
+            <mxRectangle x="450" y="20" width="140" height="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-83" value="性质：恶性&#xa;部位：胰头&#xa;肿瘤最大径：3.2cm&#xa;时间：2020-12-10&#xa;状态：行胰十二指肠切&#xa;除术，手术顺利，术后&#xa;恢复良好。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-80">
+          <mxGeometry y="26" width="60" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-85" value="肿瘤" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="500" y="210" width="60" height="26" as="geometry">
+            <mxRectangle x="450" y="180" width="140" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-86" value="性质：恶性&#xa;部位：胰头&#xa;时间：2021-01-11&#xa;状态：【空】" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-85">
+          <mxGeometry y="26" width="60" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-90" target="RzvoCI_BBaKcWjOHwhh5-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-90" value="炎症" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-92" value="炎症" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="500" y="330" width="60" height="26" as="geometry">
+            <mxRectangle x="450" y="300" width="140" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-93" value="部位：胆囊&#xa;伴随：胆囊结石&#xa;时间：2021-01-11&#xa;状态：【空】" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-92">
+          <mxGeometry y="26" width="60" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-95" target="RzvoCI_BBaKcWjOHwhh5-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-95" value="感染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-97" value="感染" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="500" y="450" width="60" height="26" as="geometry">
+            <mxRectangle x="450" y="420" width="140" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-98" value="部位：胆道&#xa;时间：2021-01-11&#xa;状态：【空】" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-97">
+          <mxGeometry y="26" width="60" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-101" value="手术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="570" />
+              <mxPoint x="410" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-103" value="切除术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-105" value="切除术" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="500" y="560" width="60" height="26" as="geometry">
+            <mxRectangle x="450" y="530" width="140" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-106" value="部位：胰十二指肠&#xa;时间：2020-12-10&#xa;状态：手术顺利，术后&#xa;恢复良好。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-105">
+          <mxGeometry y="26" width="60" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-107" target="RzvoCI_BBaKcWjOHwhh5-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-107" value="检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="710" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-109" target="RzvoCI_BBaKcWjOHwhh5-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-109" value="CT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="710" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-110" value="CT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="500" y="700" width="60" height="26" as="geometry">
+            <mxRectangle x="450" y="670" width="140" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-111" value="部位：上腹部&#xa;增强：是&#xa;结果：胰头部占位，待&#xa;排伴肝内外胆管及主胰&#xa;管扩张，胰腺实质内多&#xa;发囊样低密度灶。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-110">
+          <mxGeometry y="26" width="60" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-115" value="病理诊断" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="500" y="870" width="60" height="26" as="geometry">
+            <mxRectangle x="450" y="840" width="140" height="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-116" value="日期：2021-12-26&#xa;结果：（胰头）中分化&#xa;导管腺癌，肿瘤最大径&#xa;约3.2cm；（胆囊）慢&#xa;性胆囊炎。&#xa;免疫组化:&#xa;CAM5.2:(+)&#xa;CDX2:(部分+)&#xa;P53:(突变型，50%)&#xa;KI67:(+，60%)&#xa;MUC1:(+)&#xa;MUC2:(小灶+)&#xa;MUC5:(+)&#xa;MUC6:(少部分+)&#xa;MLH1:(+)&#xa;MSH2:(+)&#xa;PMS2:(+)&#xa;MSH6:(+)&#xa;其他:&#xa;淋巴细胞呈：&#xa;CD4(+，30%)&#xa;CD8(+，20%)&#xa;CD20(+，2%)&#xa;EGFR:（阴性）无扩增。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-115">
+          <mxGeometry y="26" width="60" height="354" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-117" target="RzvoCI_BBaKcWjOHwhh5-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-117" value="病理诊断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="870" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-122" target="RzvoCI_BBaKcWjOHwhh5-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-122" value="症状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1260" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-124" target="RzvoCI_BBaKcWjOHwhh5-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-124" value="CT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1260" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-125" value="CT" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="450" y="1250" width="60" height="26" as="geometry">
+            <mxRectangle x="445" y="1250" width="140" height="130" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-126" value="部位：上腹部&#xa;增强：是&#xa;结果：胰头部占位，待&#xa;排伴肝内外胆管及主胰&#xa;管扩张，胰腺实质内多&#xa;发囊样低密度灶。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-125">
+          <mxGeometry y="26" width="60" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-127" value="病理诊断" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="450" y="1420" width="60" height="26" as="geometry">
+            <mxRectangle x="450" y="840" width="140" height="380" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-128" value="日期：2021-12-26&#xa;结果：（胰头）中分化&#xa;导管腺癌，肿瘤最大径&#xa;约3.2cm；（胆囊）慢&#xa;性胆囊炎。&#xa;免疫组化:&#xa;CAM5.2:(+)&#xa;CDX2:(部分+)&#xa;P53:(突变型，50%)&#xa;KI67:(+，60%)&#xa;MUC1:(+)&#xa;MUC2:(小灶+)&#xa;MUC5:(+)&#xa;MUC6:(少部分+)&#xa;MLH1:(+)&#xa;MSH2:(+)&#xa;PMS2:(+)&#xa;MSH6:(+)&#xa;其他:&#xa;淋巴细胞呈：&#xa;CD4(+，30%)&#xa;CD8(+，20%)&#xa;CD20(+，2%)&#xa;EGFR:（阴性）无扩增。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RzvoCI_BBaKcWjOHwhh5-127">
+          <mxGeometry y="26" width="60" height="354" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-130" target="RzvoCI_BBaKcWjOHwhh5-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-130" value="病理诊断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1420" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-131" target="RzvoCI_BBaKcWjOHwhh5-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-131" target="RzvoCI_BBaKcWjOHwhh5-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-131" target="RzvoCI_BBaKcWjOHwhh5-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-131" target="RzvoCI_BBaKcWjOHwhh5-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-131" target="RzvoCI_BBaKcWjOHwhh5-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-131" value="患者A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="50" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-132" target="RzvoCI_BBaKcWjOHwhh5-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-132" target="RzvoCI_BBaKcWjOHwhh5-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="60" />
+              <mxPoint x="660" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-132" value="现病史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="50" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-133" target="RzvoCI_BBaKcWjOHwhh5-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="150" />
+              <mxPoint x="660" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-133" value="既往史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="140" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-134" value="主诉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="230" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-135" target="RzvoCI_BBaKcWjOHwhh5-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="320" />
+              <mxPoint x="720" y="883" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-135" value="辅助检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="310" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-144" target="RzvoCI_BBaKcWjOHwhh5-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-144" target="RzvoCI_BBaKcWjOHwhh5-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-144" target="RzvoCI_BBaKcWjOHwhh5-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-144" target="RzvoCI_BBaKcWjOHwhh5-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-144" value="患者B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="586" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-145" target="RzvoCI_BBaKcWjOHwhh5-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="596" />
+              <mxPoint x="850" y="713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-145" value="现病史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="586" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-146" value="既往史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="676" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-147" value="主诉" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="766" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-148" target="RzvoCI_BBaKcWjOHwhh5-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="856" />
+              <mxPoint x="770" y="223" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-148" target="RzvoCI_BBaKcWjOHwhh5-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="856" />
+              <mxPoint x="770" y="343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzvoCI_BBaKcWjOHwhh5-148" target="RzvoCI_BBaKcWjOHwhh5-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="856" />
+              <mxPoint x="770" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-148" value="诊断结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="846" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RzvoCI_BBaKcWjOHwhh5-153" value="诊断结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="380" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
